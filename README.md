@@ -3,13 +3,11 @@
 
 - 🔭 resume-builder site [nex-linker](https://github.com/Alkush-Pipania/NexLinker)
 
-- 🌱 I'm learning drizzle , Supabase , many more **youtube**
+- 🌱 I'm learning drizzle , Supabase , many more **from youtube**
 
 - 🔭 my first project on react [Haveli](https://github.com/Alkush-Pipania/haveli)
 
 - 🤝 I'm currently building [Write-us](https://github.com/Alkush-Pipania/Write-us)
-
-- 👨‍💻 portfolio [https://alkush-pipania.github.io/portfolio/](https://alkush-pipania.github.io/portfolio/)
 
 - 📫 How to reach me **workofalkushpipania@gmail.com**
 
